@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1363dd349bb444ffcf7f39f0fcdb8f4a",
+    "revision": "ea94e005bf71249344c941a723d579b5",
     "url": "/serena-lun/index.html"
   },
   {
-    "revision": "15b526baea3d1aab7cc6",
-    "url": "/serena-lun/static/css/main.fc5a2203.chunk.css"
+    "revision": "8a18afe3a3cfbcab7b5c",
+    "url": "/serena-lun/static/css/main.66f40d1b.chunk.css"
   },
   {
     "revision": "f7239982ad4a74f75a5c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serena-lun/static/js/2.6245e21c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15b526baea3d1aab7cc6",
+    "revision": "8a18afe3a3cfbcab7b5c",
     "url": "/serena-lun/static/js/main.9e8609da.chunk.js"
   },
   {
